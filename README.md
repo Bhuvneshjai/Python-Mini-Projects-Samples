@@ -1,1 +1,1 @@
-# Python Programs and small excercise of Python
+# Programs and Small Excercise of Python
