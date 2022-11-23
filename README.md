@@ -8,7 +8,7 @@ And In the third project we have created some Simple Python Projects by the help
 
 # Python Mini Project
 ## 1. QR Code Generator
-In this we write the code and make the program of QR Code Generator By scan it we can go into any website.
+In this we wrote the code and make the program of QR Code Generator By scan the QR we can go into particular website.
 
 ### 1.1 This is Simple QR Code Image
 
